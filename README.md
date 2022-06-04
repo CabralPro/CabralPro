@@ -1,3 +1,6 @@
+<img height="300" src="https://octodex.github.com/images/filmtocat.png">
+
+
 ## Hi there! Welcome to my GitHub!
 
 <div><em>
